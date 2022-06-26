@@ -5,6 +5,6 @@ main: hash
 
 hash: 
 	mkdir hashes || [ $$? -eq 1 ]
-	bash ./bin/hashSongs.sh > hashes/songs.txt
-	bash ./bin/hashJackets.sh > hashes/jackets.txt
-	bash ./bin/hash.sh courses.json > hashes/courses.txt
+	bash ./bin/hashSongs.sh > hashed_songs.txt
+	bash ./bin/hashJackets.sh > hashed_jackets.txt
+	bash ./bin/hash.sh courses.json > hashed_courses.txt

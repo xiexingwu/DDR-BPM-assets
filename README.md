@@ -1,6 +1,8 @@
 # README
 This repository stores the resources required by the DDR BPM app.
 
+![Release](https://github.com/xiexingwu/DDR-BPM-assets/actions/workflows/build.yml/badge.svg)
+
 # Makefile targets
 
 - `main`

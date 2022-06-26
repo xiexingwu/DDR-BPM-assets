@@ -25,4 +25,4 @@ jobs:
           files: |
             *.zip
             all_songs.txt
-            hashes/*.txt
+            hashed_*.txt
