@@ -25,4 +25,5 @@ jobs:
           files: |
             *.zip
             all_songs.txt
+            courses.json
             hashed_*.txt
