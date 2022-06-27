@@ -2,7 +2,7 @@
 while IFS= read -r line; do
     file="./jackets/${line}-jacket.png"
     if [[ ! -f $file ]]; then
-        echo "$file not found"
+        echo "$file not found" 1>&2
     else
         bash ./bin/hash.sh "$file"
     fi
