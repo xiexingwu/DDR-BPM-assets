@@ -9,6 +9,10 @@ This repository stores the resources required by the DDR BPM app.
 
     Makes `.zip` archives for release.
 
+- `clean`
+
+    Cleans data folders, in case filenames become incorrect on case-insensitive systems.
+
 # Files
 - `all_songs.txt`
 
