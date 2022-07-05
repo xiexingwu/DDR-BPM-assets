@@ -1,3 +1,4 @@
+//----- song ID: surf -----//
 #TITLE:Surface;
 #ARTIST:Stessie;
 #BANNER:Surface.png;
@@ -9,7 +10,6 @@
 #BPMS:0=150;
 #BGSTAGE:3;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -357,7 +357,6 @@
 0000
 ;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -710,7 +709,6 @@
 0000
 ;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1267,7 +1265,6 @@
 0000
 ;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1985,9 +1982,13 @@
 0000
 0000
 0000
+,
+0000
+0000
+0000
+0000
 ;
 
-//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2340,7 +2341,6 @@
 00000000
 ;
 
-//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2889,7 +2889,6 @@
 00000000
 ;
 
-//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

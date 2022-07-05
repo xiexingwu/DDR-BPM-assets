@@ -1,3 +1,4 @@
+//----- song ID: daph -----//
 #TITLE:Dance Phenomena;
 #ARTIST:BEMANI Sound Team "Captain KING";
 #SORTARTIST:Captain KING;
@@ -12,7 +13,6 @@
 #STOPS:180=0.106,180.5=0.106,181=0.211,183=0.106,183.5=0.106,184=0.211,186=0.106,186.5=0.106,187=0.211;
 #BGSTAGE:2;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -345,7 +345,6 @@
 0000
 ;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -730,7 +729,6 @@
 0000
 ;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1363,7 +1361,6 @@
 0000
 ;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2181,9 +2178,13 @@
 0000
 0000
 0000
+,
+0000
+0000
+0000
+0000
 ;
 
-//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2568,7 +2569,6 @@
 00000000
 ;
 
-//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3201,7 +3201,6 @@
 00000000
 ;
 
-//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

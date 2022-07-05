@@ -1,3 +1,4 @@
+//----- song ID: pupu -----//
 #TITLE:Pump Pump Pump;
 #ARTIST:kors k;
 #BANNER:Pump Pump Pump.png;
@@ -9,7 +10,6 @@
 #BPMS:0=156;
 #BGSTAGE:31;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -392,7 +392,6 @@
 0000
 ;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -775,7 +774,6 @@
 0000
 ;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1470,7 +1468,6 @@
 0000
 ;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2514,9 +2511,13 @@
 0000
 0000
 0000
+,
+0000
+0000
+0000
+0000
 ;
 
-//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2899,7 +2900,6 @@
 00000000
 ;
 
-//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3594,7 +3594,6 @@
 00000000
 ;
 
-//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

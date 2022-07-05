@@ -1,3 +1,4 @@
+//----- song ID: antm -----//
 #TITLE:Anthurium;
 #ARTIST:BlackY feat. Risa Yuzuki;
 #BANNER:Anthurium.png;
@@ -9,7 +10,6 @@
 #BPMS:0=142;
 #BGSTAGE:17;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -352,7 +352,6 @@
 0000
 ;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -695,7 +694,6 @@
 0000
 ;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1394,7 +1392,6 @@
 0000
 ;
 
-//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2227,9 +2224,13 @@
 0000
 0000
 0000
+,
+0000
+0000
+0000
+0000
 ;
 
-//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2572,7 +2573,6 @@
 00000000
 ;
 
-//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3271,7 +3271,6 @@
 00000000
 ;
 
-//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
