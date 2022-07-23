@@ -3,12 +3,13 @@ main: hash
 	zip jackets.zip -qr jackets-lowres || [ $$? -eq 12 ]
 	zip simfiles.zip -qr simfiles || [ $$? -eq 12 ]
 
-hash: 
+hash: lowres
 	bash ./bin/hashSongs.sh > hashed_songs.txt
 	bash ./bin/hashJackets.sh > hashed_jackets.txt
 	bash ./bin/hash.sh courses.json > hashed_courses.txt
 
 lowres:
-	mogrify -resize 128x128 -quality 100 -path jackets-lowres jackets/*.png 
+	bash ./bin/lowres.sh
+
 clean:
-	rm -f data/* jackets/* simfiles/* hashed_*.txt
+	rm -f data/* jackets*/* simfiles/* hashed_*.txt *.zip
