@@ -3,10 +3,14 @@ main: hash
 	zip jackets.zip -qr jackets-lowres || [ $$? -eq 12 ]
 	zip simfiles.zip -qr simfiles || [ $$? -eq 12 ]
 
-hash: lowres
+hash:
 	bash ./bin/hashSongs.sh > hashed_songs.txt
 	bash ./bin/hashJackets.sh > hashed_jackets.txt
 	bash ./bin/hash.sh courses.json > hashed_courses.txt
+
+deploy: lowres
+	git tag vAuto
+	git push origin vAuto
 
 lowres:
 	bash ./bin/lowres.sh
