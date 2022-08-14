@@ -9,8 +9,8 @@ hash:
 	bash ./bin/hash.sh courses.json > hashed_courses.txt
 
 deploy: lowres
-	git tag vAuto
-	git push origin vAuto
+	git tag vAuto --force
+	git push origin vAuto --force
 
 lowres:
 	bash ./bin/lowres.sh
