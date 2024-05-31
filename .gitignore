@@ -1,3 +1,7 @@
 .DS_Store
+*.json
+*.png
+*.sm
+*.ssc
 *.zip
 hashed_*.txt

@@ -16,8 +16,8 @@ hash:
 	bash ./bin/hashJackets.sh > hashed_jackets.txt
 	bash ./bin/hash.sh courses.json > hashed_courses.txt
 
-clean: clobber
+clobber: clean
 	rm -f data/* jackets/* jackets-lowers/* simfiles/* hashed_*.txt *.zip
 
-clobber: 
+clean: 
 	rm -f *.zip hashed_*.txt
