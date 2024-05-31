@@ -1,24 +1,15 @@
 ﻿#TITLE:Synergy For Angels;
-#SUBTITLE:;
 #ARTIST:TAG×U1-ASAMi;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Synergy For Angels.png;
 #BACKGROUND:Synergy For Angels-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Synergy For Angels.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:28.500;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:160;
-#BPMS:0=160,4=160;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:28.5;
+#SAMPLELENGTH:15;
+#BPMS:0=160;
+#STAGE:15;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -405,6 +396,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -863,6 +856,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1550,6 +1545,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2557,6 +2554,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3019,6 +3018,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3674,6 +3675,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

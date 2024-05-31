@@ -1,24 +1,15 @@
-﻿#TITLE:Ah La La La;
-#SUBTITLE:;
+#TITLE:Ah La La La;
 #ARTIST:Tommie Sunshine;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Ah La La La.png;
 #BACKGROUND:Ah La La La-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Ah La La La.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:60.923;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:130;
-#BPMS:0=130.435,4=129.992;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=130;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -275,6 +266,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -531,6 +524,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -903,6 +898,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1503,6 +1500,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -1759,6 +1758,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2135,6 +2136,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

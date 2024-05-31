@@ -1,23 +1,13 @@
 #TITLE:Dream Machine;
-#SUBTITLE:;
 #ARTIST:Darwin;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Dream Machine.png;
 #BACKGROUND:Dream Machine-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Dream Machine.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:30.860;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:140.000;
-#BPMS:0.000=140.078,4.000=139.996;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:30.86;
+#SAMPLELENGTH:15;
+#BPMS:0=140;
+#STAGE:16;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +15,7 @@
      :
      Beginner:
      3:
-     0.136,0.163,0.022,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -293,7 +283,7 @@
      :
      Easy:
      6:
-     0.347,0.365,0.293,0.163,0.000:
+     :
 0000
 0000
 0000
@@ -570,7 +560,7 @@
      :
      Medium:
      8:
-     0.428,0.421,0.228,0.163,0.000:
+     :
 0000
 0000
 0000
@@ -1007,7 +997,7 @@
      :
      Hard:
      11:
-     0.516,0.477,0.163,0.141,0.554:
+     :
 0000
 0000
 0000
@@ -1660,7 +1650,7 @@
      :
      Easy:
      5:
-     0.242,0.253,0.065,0.087,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1933,7 +1923,7 @@
      :
      Medium:
      8:
-     0.406,0.393,0.217,0.109,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2354,7 +2344,7 @@
      :
      Hard:
      11:
-     0.532,0.506,0.152,0.087,0.407:
+     :
 00000000
 00000000
 00000000

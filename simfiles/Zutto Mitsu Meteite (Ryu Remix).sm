@@ -1,24 +1,16 @@
 ﻿#TITLE:ずっとみつめていて (Ryu☆Remix);
-#SUBTITLE:;
 #ARTIST:DJ UTO vs. Starving Trancer feat. Mayumi Morinaga;
 #TITLETRANSLIT:Zutto Mitsu Meteite (Ryu☆Remix);
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Zutto Mitsu Meteite (Ryu Remix).png;
 #BACKGROUND:Zutto Mitsu Meteite (Ryu Remix)-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Zutto Mitsu Meteite (Ryu Remix).ogg;
-#OFFSET:0.000;
-#SAMPLESTART:59.240;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:160;
-#BPMS:0=160,4=160;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:59.24;
+#SAMPLELENGTH:15;
+#BPMS:0=160;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -325,6 +317,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -631,6 +625,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1094,6 +1090,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1689,6 +1687,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2596,6 +2596,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2947,6 +2949,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3386,6 +3390,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3965,6 +3971,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

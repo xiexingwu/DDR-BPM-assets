@@ -1,23 +1,16 @@
-﻿#TITLE:Sweet Sweet ♥ Magic;
-#SUBTITLE:;
+//----- song ID: swee -----//
+#TITLE:Sweet Sweet ♥ Magic;
 #ARTIST:jun;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Sweet Sweet Love Magic.png;
 #BACKGROUND:Sweet Sweet Love Magic-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/DDRMAX2 -Dance Dance Revolution 7thMIX-.PNG;
 #MUSIC:Sweet Sweet Love Magic.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:68.333;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:180.000;
-#BPMS:0.000=180.000,4.000=180.000,203.000=180.000;
-#STOPS:203.000=0.333;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:180;
+#BPMS:0=180;
+#STOPS:203=0.333;
+#BGCHANGES:3.75=Sweet Sweet Love Magic.avi=1=1=0=0;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +18,7 @@
      :
      Beginner:
      4:
-     0.210,0.363,0.087,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -378,7 +371,7 @@
      :
      Easy:
      5:
-     0.297,0.440,0.531,0.043,0.000:
+     :
 0000
 0000
 0000
@@ -731,7 +724,7 @@
      :
      Medium:
      9:
-     0.603,0.587,0.931,0.303,0.000:
+     :
 0000
 0000
 0000
@@ -1244,7 +1237,7 @@
      :
      Hard:
      13:
-     0.678,0.624,0.314,0.401,0.179:
+     :
 0000
 0000
 0000
@@ -2000,11 +1993,6 @@
 0000
 0000
 3003
-,
-0000
-0000
-0000
-0000
 ;
 
 //---------------dance-double - ----------------
@@ -2013,7 +2001,7 @@
      :
      Easy:
      5:
-     0.229,0.257,0.141,0.043,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2378,7 +2366,7 @@
      :
      Medium:
      8:
-     0.408,0.367,0.271,0.043,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2927,7 +2915,7 @@
      :
      Hard:
      11:
-     0.568,0.514,0.347,0.054,0.032:
+     :
 00000000
 00000000
 00000000

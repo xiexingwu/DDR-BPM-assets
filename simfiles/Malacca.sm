@@ -1,4 +1,3 @@
-//----- song id: mala
 #TITLE:Malacca;
 #ARTIST:nc ft NRG factory;
 #BANNER:Malacca.png;
@@ -8,8 +7,10 @@
 #SAMPLESTART:58.31;
 #SAMPLELENGTH:15;
 #DISPLAYBPM:140;
-#BPMS:0=139.715,4=140;
+#BPMS:0=139.8,4=140;
+#STAGE:15;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -291,6 +292,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -572,6 +575,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -909,6 +914,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1486,6 +1493,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2319,6 +2328,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2600,6 +2611,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2925,6 +2938,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3506,6 +3521,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

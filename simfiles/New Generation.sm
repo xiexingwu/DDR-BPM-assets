@@ -1,24 +1,16 @@
 ﻿#TITLE:New Generation;
-#SUBTITLE:;
 #ARTIST:鍋嶋圭一;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:Keiichi Nabeshima;
-#CREDIT:;
 #BANNER:New Generation.png;
 #BACKGROUND:New Generation-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:New Generation.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:16.414;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:190;
-#BPMS:0=190.476,4=190;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=190;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -405,6 +397,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -875,6 +869,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1409,6 +1405,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2239,6 +2237,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -3189,6 +3189,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3659,6 +3661,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4189,6 +4193,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4959,6 +4965,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

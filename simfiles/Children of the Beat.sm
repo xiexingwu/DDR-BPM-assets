@@ -1,24 +1,15 @@
-﻿#TITLE:Children of the Beat;
-#SUBTITLE:;
+#TITLE:Children of the Beat;
 #ARTIST:Harmony Machine;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Children of the Beat.png;
 #BACKGROUND:Children of the Beat-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Children of the Beat.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:85.050;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:160;
-#BPMS:0=160,4=160;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:85.05;
+#SAMPLELENGTH:15;
+#BPMS:0=160;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -440,6 +431,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -861,6 +854,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1438,6 +1433,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2087,6 +2084,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2780,6 +2779,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3201,6 +3202,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3770,6 +3773,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4391,6 +4396,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

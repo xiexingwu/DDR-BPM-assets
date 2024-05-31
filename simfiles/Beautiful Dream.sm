@@ -1,24 +1,15 @@
-﻿#TITLE:Beautiful Dream;
-#SUBTITLE:;
+#TITLE:Beautiful Dream;
 #ARTIST:REDALiCE feat. anporin;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Beautiful Dream.png;
 #BACKGROUND:Beautiful Dream-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Beautiful Dream.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:45.617;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:182;
-#BPMS:0=182.741,4=181.989;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=182;
+#STAGE:16;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -455,6 +446,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -903,6 +896,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1523,6 +1518,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2259,6 +2256,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -3235,6 +3234,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3755,6 +3756,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4391,6 +4394,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -5111,6 +5116,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

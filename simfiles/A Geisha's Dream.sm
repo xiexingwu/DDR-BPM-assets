@@ -1,23 +1,14 @@
 #TITLE:A Geisha's Dream;
-#SUBTITLE:;
 #ARTIST:NAOKI feat. SMiLE.dk;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:A Geisha's Dream.png;
 #BACKGROUND:A Geisha's Dream-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:A Geisha's Dream.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:42.860;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:140.000;
-#BPMS:0.000=140.078,4.000=140.001;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:42.86;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:140;
+#BPMS:0=139.5,4=140;
+#STAGE:2;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Beginner:
      2:
-     0.121,0.167,0.044,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -353,7 +344,7 @@
      :
      Easy:
      6:
-     0.306,0.335,0.267,0.169,0.000:
+     :
 0000
 0000
 0000
@@ -705,7 +696,7 @@
      :
      Medium:
      9:
-     0.413,0.474,0.329,0.302,0.027:
+     :
 0000
 0000
 0000
@@ -1217,7 +1208,7 @@
      :
      Hard:
      11:
-     0.511,0.530,0.285,0.267,0.142:
+     :
 0000
 0000
 0000
@@ -1837,7 +1828,7 @@
      :
      Easy:
      7:
-     0.274,0.279,0.178,0.071,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2165,7 +2156,7 @@
      :
      Medium:
      9:
-     0.370,0.363,0.365,0.089,0.027:
+     :
 00000000
 00000000
 00000000
@@ -2645,7 +2636,7 @@
      :
      Hard:
      11:
-     0.503,0.558,0.329,0.160,0.142:
+     :
 00000000
 00000000
 00000000

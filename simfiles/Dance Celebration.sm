@@ -1,23 +1,14 @@
 #TITLE:Dance Celebration;
-#SUBTITLE:;
 #ARTIST:Bill Hamel feat. Kevens;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
 #CREDIT:Ashura96;
 #BANNER:Dance Celebration.png;
 #BACKGROUND:Dance Celebration-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Dance Celebration.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:35.080;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:130.000;
-#BPMS:0.000=130.435,4.000=130.000;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:35.08;
+#SAMPLELENGTH:15;
+#BPMS:0=130;
+#STAGE:4;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Beginner:
      2:
-     0.105,0.128,0.000,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -293,7 +284,7 @@
      :
      Easy:
      5:
-     0.238,0.286,0.133,0.092,0.000:
+     :
 0000
 0000
 0000
@@ -561,7 +552,7 @@
      :
      Medium:
      8:
-     0.396,0.390,0.338,0.205,0.031:
+     :
 0000
 0000
 0000
@@ -957,7 +948,7 @@
      :
      Hard:
      11:
-     0.545,0.546,0.327,0.113,0.292:
+     :
 0000
 0000
 0000
@@ -1605,7 +1596,7 @@
      :
      Challenge:
      12:
-     0.497,0.494,0.215,0.113,0.292:
+     :
 0000
 0000
 0000
@@ -2253,7 +2244,7 @@ MMMM
      :
      Easy:
      6:
-     0.250,0.286,0.143,0.092,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2521,7 +2512,7 @@ MMMM
      :
      Medium:
      7:
-     0.332,0.364,0.256,0.102,0.061:
+     :
 00000000
 00000000
 00000000
@@ -2977,7 +2968,7 @@ MMMM
      :
      Hard:
      11:
-     0.480,0.442,0.225,0.082,0.287:
+     :
 00000000
 00000000
 00000000
@@ -3641,7 +3632,7 @@ MMMM
      :
      Challenge:
      12:
-     0.433,0.442,0.133,0.082,0.287:
+     :
 00000000
 00000000
 00000000

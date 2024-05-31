@@ -1,24 +1,16 @@
-﻿#TITLE:PRANA;
-#SUBTITLE:;
+#TITLE:PRANA;
 #ARTIST:TAG;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:PRANA.png;
 #BACKGROUND:PRANA-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/jubeat saucer.png;
 #MUSIC:PRANA.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:11.489;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:188;
-#BPMS:0=188.482,4=187.99,228=188.044;
-#STOPS:228=0.32;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=188;
+#STOPS:228=0.319;
+#STAGE:3;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -435,6 +427,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1023,6 +1017,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1899,6 +1895,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2819,6 +2817,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -3959,6 +3959,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4551,6 +4553,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -5427,6 +5431,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -6347,6 +6353,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

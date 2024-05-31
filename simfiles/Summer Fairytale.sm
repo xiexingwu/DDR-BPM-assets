@@ -1,24 +1,16 @@
-﻿#TITLE:Summer Fairytale;
-#SUBTITLE:;
+#TITLE:Summer Fairytale;
 #ARTIST:Design-MAD crew;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Summer Fairytale.png;
 #BACKGROUND:Summer Fairytale-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/DanceDanceRevolution II.png;
 #MUSIC:Summer Fairytale.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:85.140;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
+#SAMPLESTART:85.14;
+#SAMPLELENGTH:15;
 #DISPLAYBPM:141;
-#BPMS:0=141.176,4=140.995;
-#STOPS:;
-#BGCHANGES:;
+#BPMS:0=139.5,4=141;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -360,6 +352,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -701,6 +695,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1098,6 +1094,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1539,6 +1537,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2380,6 +2380,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2721,6 +2723,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3314,6 +3318,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3775,6 +3781,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

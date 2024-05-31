@@ -1,23 +1,13 @@
 #TITLE:DYNAMITE RAVE;
-#SUBTITLE:;
 #ARTIST:NAOKI;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:DYNAMITE RAVE.png;
 #BACKGROUND:DYNAMITE RAVE-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DANCE DANCE REVOLUTION 3RDMIX.PNG;
+#CDTITLE:./CDTitles/DDR 3rdMIX.png;
 #MUSIC:DYNAMITE RAVE.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:40.790;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:150.000;
-#BPMS:0.000=150.000,12.000=150.000;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:40.79;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:150;
+#BPMS:0=150.5,4=150;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +15,7 @@
      :
      Beginner:
      3:
-     0.161,0.212,0.000,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -338,7 +328,7 @@
      :
      Easy:
      6:
-     0.353,0.514,0.543,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -651,7 +641,7 @@
      :
      Medium:
      10:
-     0.449,0.514,0.389,0.000,0.005:
+     :
 0000
 0000
 0000
@@ -1144,7 +1134,7 @@
      :
      Hard:
      12:
-     0.610,0.574,0.195,0.000,0.200:
+     :
 0000
 0000
 0000
@@ -1901,7 +1891,7 @@
      :
      Challenge:
      12:
-     0.602,0.635,0.430,0.072,0.220:
+     :
 0000
 0000
 0000
@@ -2602,7 +2592,7 @@
      :
      Easy:
      6:
-     0.378,0.423,0.420,0.000,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2915,7 +2905,7 @@
      :
      Medium:
      7:
-     0.427,0.423,0.430,0.000,0.000:
+     :
 00000000
 00000000
 00000000
@@ -3340,7 +3330,7 @@
      :
      Hard:
      11:
-     0.517,0.484,0.225,0.000,0.000:
+     :
 00000000
 00000000
 00000000
@@ -3849,7 +3839,7 @@
      :
      Challenge:
      12:
-     0.515,0.544,0.256,0.000,0.067:
+     :
 00000000
 00000000
 00000000

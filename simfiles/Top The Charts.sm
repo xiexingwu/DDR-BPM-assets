@@ -1,24 +1,15 @@
-﻿#TITLE:Top The Charts;
-#SUBTITLE:;
+#TITLE:Top The Charts;
 #ARTIST:J-Mi & Midi-D feat. Hanna Stockzell;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Top The Charts.png;
 #BACKGROUND:Top The Charts-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/DanceDanceRevolution 2010.png;
 #MUSIC:Top The Charts.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:52.490;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:160;
-#BPMS:0=160,4=160;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:52.49;
+#SAMPLELENGTH:15;
+#BPMS:0=160;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -335,6 +326,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -651,6 +644,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1075,6 +1070,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1699,6 +1696,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2463,6 +2462,8 @@ MMMM
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2779,6 +2780,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3203,6 +3206,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3827,6 +3832,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

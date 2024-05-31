@@ -1,24 +1,16 @@
-﻿#TITLE:THE REASON;
-#SUBTITLE:;
+#TITLE:THE REASON;
 #ARTIST:Black Rose Garden;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:THE REASON.png;
 #BACKGROUND:THE REASON-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/Dance Dance Revolution HOTTEST PARTY.png;
 #MUSIC:THE REASON.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:67.414;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:85:98;
-#BPMS:0=85.106,4=84.984,39.75=97.998,101.75=98.009;
-#STOPS:39.75=0.173,101.75=1.227;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=85,39.75=98;
+#STOPS:39.75=0.176,101.75=1.224;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -556,6 +548,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1150,6 +1144,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1748,6 +1744,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2346,6 +2344,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -3196,6 +3196,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3742,6 +3744,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4292,6 +4296,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4890,6 +4896,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

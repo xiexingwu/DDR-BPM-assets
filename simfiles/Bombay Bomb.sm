@@ -1,24 +1,15 @@
-﻿#TITLE:Bombay Bomb;
-#SUBTITLE:;
+#TITLE:Bombay Bomb;
 #ARTIST:Jena Rose;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Bombay Bomb.png;
 #BACKGROUND:Bombay Bomb-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Bombay Bomb.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:8.270;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:145;
-#BPMS:0=145.161,4=145.004;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:8.27;
+#SAMPLELENGTH:15;
+#BPMS:0=145;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -360,6 +351,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -765,6 +758,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1298,6 +1293,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2127,6 +2124,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2532,6 +2531,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3065,6 +3066,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

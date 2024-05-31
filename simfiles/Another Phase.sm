@@ -1,24 +1,16 @@
-﻿#TITLE:Another Phase;
-#SUBTITLE:;
+#TITLE:Another Phase;
 #ARTIST:TAG;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Another Phase.png;
 #BACKGROUND:Another Phase-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Another Phase.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:14.243;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:160;
-#BPMS:0=160,4=160,36=160.004,197=160.009;
-#STOPS:36=1.127,197=1.127;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=160;
+#STOPS:36=1.125,197=1.125;
+#STAGE:14;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -360,6 +352,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -961,6 +955,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1922,6 +1918,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2959,6 +2957,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -3996,6 +3996,8 @@ MMMM
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4569,6 +4571,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -5526,6 +5530,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -6603,6 +6609,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

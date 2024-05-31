@@ -1,23 +1,14 @@
 #TITLE:Taj He Spitz;
-#SUBTITLE:;
 #ARTIST:DKC Crew;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Taj He Spitz.png;
-#BACKGROUND:Taj He Spitz-bg.png:;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#BACKGROUND:Taj He Spitz-bg.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Taj He Spitz.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:82.605;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:107.000;
-#BPMS:0.000=107.784,4.000=107.474,62.000=107.498;
-#STOPS:62.000=0.553;
-#BGCHANGES:0.000=Taj He Spitz.avi=1.000=0=0=0;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:107;
+#BPMS:0=107.5;
+#STOPS:62=0.558;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Beginner:
      2:
-     0.106,0.127,0.010,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -263,7 +254,7 @@
      :
      Easy:
      4:
-     0.205,0.213,0.048,0.134,0.000:
+     :
 0000
 0000
 0000
@@ -501,7 +492,7 @@
      :
      Medium:
      7:
-     0.300,0.320,0.172,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -847,7 +838,7 @@
      :
      Hard:
      10:
-     0.434,0.405,0.325,0.029,0.062:
+     :
 0000
 0000
 0000
@@ -1349,7 +1340,7 @@
      :
      Easy:
      5:
-     0.201,0.213,0.143,0.048,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1587,7 +1578,7 @@
      :
      Medium:
      7:
-     0.319,0.341,0.210,0.048,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1945,7 +1936,7 @@
      :
      Hard:
      11:
-     0.444,0.405,0.287,0.057,0.196:
+     :
 00000000
 00000000
 00000000

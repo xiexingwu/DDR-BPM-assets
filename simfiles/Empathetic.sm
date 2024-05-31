@@ -1,24 +1,15 @@
 ﻿#TITLE:Empathetic;
-#SUBTITLE:;
 #ARTIST:Sota÷Des;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Empathetic.png;
 #BACKGROUND:Empathetic-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Empathetic.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:97.333;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:180;
-#BPMS:0=180,4=180;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=180;
+#STAGE:3;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -460,6 +451,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1021,6 +1014,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1870,6 +1865,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2935,6 +2932,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3496,6 +3495,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4345,6 +4346,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

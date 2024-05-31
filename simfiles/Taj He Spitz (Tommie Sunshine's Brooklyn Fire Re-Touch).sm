@@ -1,23 +1,13 @@
 #TITLE:Taj He Spitz (Tommie Sunshine's Brooklyn Fire Re-Touch);
-#SUBTITLE:;
 #ARTIST:DKC Crew;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
-#BANNER:Taj He Spitz (Tommie Sunshine's Brooklyn Fire Re-Touch)-jacket.png;
+#BANNER:Taj He Spitz (Tommie Sunshine's Brooklyn Fire Re-Touch).png;
 #BACKGROUND:Taj He Spitz (Tommie Sunshine's Brooklyn Fire Re-Touch)-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Taj He Spitz (Tommie Sunshine's Brooklyn Fire Re-Touch).ogg;
-#OFFSET:0.000;
 #SAMPLESTART:9.753;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:120.000;
-#BPMS:0.000=120.000,4.000=120.000;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=120;
+#STAGE:4;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +15,7 @@
      :
      Beginner:
      3:
-     0.131,0.148,0.030,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -288,7 +278,7 @@
      :
      Easy:
      5:
-     0.276,0.296,0.171,0.161,0.000:
+     :
 0000
 0000
 0000
@@ -551,7 +541,7 @@
      :
      Medium:
      8:
-     0.384,0.395,0.332,0.111,0.000:
+     :
 0000
 0000
 0000
@@ -934,7 +924,7 @@
      :
      Hard:
      12:
-     0.558,0.493,0.483,0.050,0.257:
+     :
 0000
 0000
 0000
@@ -1605,7 +1595,7 @@
      :
      Easy:
      6:
-     0.250,0.222,0.020,0.201,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1868,7 +1858,7 @@
      :
      Medium:
      7:
-     0.368,0.370,0.231,0.171,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2243,7 +2233,7 @@
      :
      Hard:
      12:
-     0.555,0.493,0.503,0.050,0.242:
+     :
 00000000
 00000000
 00000000

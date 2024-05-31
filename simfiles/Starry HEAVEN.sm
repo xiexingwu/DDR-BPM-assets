@@ -1,24 +1,14 @@
-﻿#TITLE:Starry HEAVEN;
-#SUBTITLE:;
+#TITLE:Starry HEAVEN;
 #ARTIST:Royz;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Starry HEAVEN.png;
 #BACKGROUND:Starry HEAVEN-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Starry HEAVEN.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:73.730;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:190;
-#BPMS:0=190.476,4=189.999;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:73.73;
+#SAMPLELENGTH:15;
+#BPMS:0=190;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -420,6 +410,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -921,6 +913,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1442,6 +1436,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2043,6 +2039,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2691,6 +2689,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3192,6 +3192,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3729,6 +3731,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4338,6 +4342,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

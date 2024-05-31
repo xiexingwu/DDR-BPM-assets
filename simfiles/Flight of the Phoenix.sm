@@ -1,23 +1,13 @@
 #TITLE:Flight of the Phoenix;
-#SUBTITLE:;
 #ARTIST:Jena Rose;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Flight of the Phoenix.png;
 #BACKGROUND:Flight of the Phoenix-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Flight of the Phoenix.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:54.620;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:145.000;
-#BPMS:0.000=145.161,4.000=145.003;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:54.62;
+#SAMPLELENGTH:15;
+#BPMS:0=145;
+#STAGE:3;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +15,7 @@
      :
      Beginner:
      2:
-     0.103,0.171,0.010,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -328,7 +318,7 @@
      :
      Easy:
      5:
-     0.216,0.257,0.180,0.020,0.000:
+     :
 0000
 0000
 0000
@@ -631,7 +621,7 @@
      :
      Medium:
      7:
-     0.320,0.371,0.270,0.200,0.000:
+     :
 0000
 0000
 0000
@@ -1010,7 +1000,7 @@
      :
      Hard:
      9:
-     0.385,0.457,0.240,0.330,0.040:
+     :
 0000
 0000
 0000
@@ -1477,7 +1467,7 @@
      :
      Challenge:
      7:
-     0.305,0.376,0.300,0.140,0.000:
+     :
 0000
 0000
 0000
@@ -1820,7 +1810,7 @@ MMMM
      :
      Easy:
      4:
-     0.200,0.257,0.010,0.010,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2123,7 +2113,7 @@ MMMM
      :
      Medium:
      6:
-     0.303,0.314,0.220,0.190,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2450,7 +2440,7 @@ MMMM
      :
      Hard:
      9:
-     0.372,0.400,0.190,0.320,0.020:
+     :
 00000000
 00000000
 00000000
@@ -2873,7 +2863,7 @@ MMMM
      :
      Challenge:
      7:
-     0.278,0.285,0.180,0.180,0.000:
+     :
 00000000
 00000000
 00000000

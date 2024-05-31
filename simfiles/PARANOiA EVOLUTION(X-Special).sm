@@ -2,12 +2,13 @@
 #ARTIST:200;
 #BANNER:PARANOIA EVOLUTION(X-Special).png;
 #BACKGROUND:PARANOIA EVOLUTION(X-Special)-bg.png;
-#CDTITLE:./CDTITLES/Dance Dance Revolution 4thMIX.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:PARANOIA EVOLUTION(X-Special).ogg;
 #SAMPLESTART:1.2;
 #SAMPLELENGTH:15;
 #DISPLAYBPM:200;
 #BPMS:0=199.5,4=200.071;
+#STAGE:3;
 
 //---------------dance-single - ----------------
 #NOTES:

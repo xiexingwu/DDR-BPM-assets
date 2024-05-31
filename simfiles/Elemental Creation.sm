@@ -1,24 +1,16 @@
-﻿#TITLE:Elemental Creation;
-#SUBTITLE:;
+#TITLE:Elemental Creation;
 #ARTIST:dj TAKA meets DJ YOSHITAKA;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Elemental Creation.png;
 #BACKGROUND:Elemental Creation-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Elemental Creation.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:10.189;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
+#SAMPLELENGTH:15;
 #DISPLAYBPM:106:424;
-#BPMS:0=213.018,4=211.921,36=423.966,356=212.077,388=105.999,420=211.991,464=424.028;
-#STOPS:;
-#BGCHANGES:;
+#BPMS:0=211.5,4=212,36=424,356=212,388=106,420=212,464=424;
+#STAGE:14;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -870,6 +862,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1841,6 +1835,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2836,6 +2832,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -4187,6 +4185,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -5626,6 +5626,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -6597,6 +6599,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -7592,6 +7596,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -8903,6 +8909,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

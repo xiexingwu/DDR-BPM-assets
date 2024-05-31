@@ -1,24 +1,17 @@
 ﻿#TITLE:キケンな果実;
-#SUBTITLE:;
 #ARTIST:達見 恵 featured by 佐野宏晃;
 #TITLETRANSLIT:Kiken na kajitsu;
-#SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:Megumi Tatsumi featured by Hiroaki Sano;
-#CREDIT:;
 #BANNER:Kiken na kajitsu.png;
 #BACKGROUND:Kiken na kajitsu-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/GITADORA.png;
 #MUSIC:Kiken na kajitsu.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:58.770;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:174;
-#BPMS:0=174.757,4=173.988;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:58.77;
+#SAMPLELENGTH:15;
+#BPMS:0=174;
+#STAGE:16;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -400,6 +393,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -799,6 +794,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1371,6 +1368,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2108,6 +2107,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2507,6 +2508,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3079,6 +3082,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

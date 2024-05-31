@@ -1,23 +1,13 @@
 #TITLE:Playa (Original Mix);
-#SUBTITLE:;
 #ARTIST:Hamel and St. Croix feat. Jules Mari;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Playa (Original Mix).png;
 #BACKGROUND:Playa (Original Mix)-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Playa (Original Mix).ogg;
-#OFFSET:0.000;
 #SAMPLESTART:51.839;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:125.000;
-#BPMS:0.000=125.000,4.000=125.000;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=125;
+#STAGE:2;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +15,7 @@
      :
      Beginner:
      3:
-     0.120,0.123,0.000,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -293,7 +283,7 @@
      :
      Easy:
      4:
-     0.214,0.223,0.039,0.078,0.000:
+     :
 0000
 0000
 0000
@@ -561,7 +551,7 @@
      :
      Medium:
      7:
-     0.351,0.349,0.186,0.078,0.000:
+     :
 0000
 0000
 0000
@@ -930,7 +920,7 @@
      :
      Hard:
      11:
-     0.513,0.455,0.284,0.068,0.303:
+     :
 0000
 0000
 0000
@@ -1519,7 +1509,7 @@
      :
      Easy:
      4:
-     0.190,0.198,0.000,0.000,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1787,7 +1777,7 @@
      :
      Medium:
      7:
-     0.351,0.374,0.254,0.078,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2132,7 +2122,7 @@
      :
      Hard:
      11:
-     0.482,0.430,0.137,0.010,0.000:
+     :
 00000000
 00000000
 00000000

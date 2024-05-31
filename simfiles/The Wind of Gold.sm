@@ -1,24 +1,15 @@
-﻿#TITLE:The Wind of Gold;
-#SUBTITLE:;
+#TITLE:The Wind of Gold;
 #ARTIST:kors k;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:The Wind of Gold.png;
 #BACKGROUND:The Wind of Gold-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/jubeat copius APPEND.png;
 #MUSIC:The Wind of Gold.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:80.471;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:171;
-#BPMS:0=170.616,4=169.993;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=170;
+#STAGE:15;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -400,6 +391,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -785,6 +778,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1682,6 +1677,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2775,6 +2772,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3156,6 +3155,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3985,6 +3986,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

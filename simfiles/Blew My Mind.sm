@@ -1,24 +1,16 @@
-﻿#TITLE:Blew My Mind;
-#SUBTITLE:;
+#TITLE:Blew My Mind;
 #ARTIST:Sota F.;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Blew My Mind.png;
 #BACKGROUND:Blew My Mind-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Blew My Mind.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:26.526;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:95:380;
-#BPMS:0=190.476,4=189.974,68=94.987,76=380.01,332=189.974,356=380.109,418=380;
-#STOPS:418=0.16;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=190,68=95,76=380,332=190,356=380;
+#STOPS:418=0.158;
+#STAGE:14;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -655,6 +647,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1327,6 +1321,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2187,6 +2183,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -3261,6 +3259,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -4455,6 +4455,8 @@ MMMM
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -5127,6 +5129,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -5987,6 +5991,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -7057,6 +7063,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

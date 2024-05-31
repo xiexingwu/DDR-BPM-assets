@@ -1,24 +1,15 @@
-﻿#TITLE:Tell me what to do;
-#SUBTITLE:;
+#TITLE:Tell me what to do;
 #ARTIST:atomsoak ft. cerol;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Tell me what to do.png;
 #BACKGROUND:Tell me what to do-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/DanceDanceRevolution II.png;
 #MUSIC:Tell me what to do.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:81.100;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:145;
-#BPMS:0=145.161,4=145.004;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:81.1;
+#SAMPLELENGTH:15;
+#BPMS:0=145;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -355,6 +346,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -691,6 +684,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1508,6 +1503,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2524,6 +2521,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -3496,6 +3495,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3832,6 +3833,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4613,6 +4616,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -5641,6 +5646,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

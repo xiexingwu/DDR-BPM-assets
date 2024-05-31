@@ -1,24 +1,15 @@
-﻿#TITLE:Sweet Rain;
-#SUBTITLE:;
+#TITLE:Sweet Rain;
 #ARTIST:Y&Co. feat. Karin;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Sweet Rain.png;
 #BACKGROUND:Sweet Rain-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/jubeat knit.png;
 #MUSIC:Sweet Rain.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:51.044;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:155;
-#BPMS:0=155.172,4=154.995;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=155;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -420,6 +411,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -833,6 +826,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1438,6 +1433,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2391,6 +2388,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2804,6 +2803,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3409,6 +3410,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

@@ -2,11 +2,12 @@
 #ARTIST:DE-SIRE;
 #BANNER:Healing Vision(X-Special).png;
 #BACKGROUND:Healing Vision(X-Special)-bg.png;
-#CDTITLE:./CDTITLES/Dance Dance Revolution 5thMIX.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Healing Vision(X-Special).ogg;
 #SAMPLESTART:79.61;
 #SAMPLELENGTH:15;
 #BPMS:0=97.4,4=98,36=196,204=49,209=196,275=96;
+#STAGE:3;
 
 //---------------dance-single - ----------------
 #NOTES:

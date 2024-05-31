@@ -1,23 +1,14 @@
 #TITLE:Dance Celebration (System 7 Remix);
-#SUBTITLE:;
 #ARTIST:Bill Hamel feat. Kevens;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Dance Celebration (System 7 Remix).png;
 #BACKGROUND:Dance Celebration (System 7 Remix)-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Dance Celebration (System 7 Remix).ogg;
-#OFFSET:0.000;
-#SAMPLESTART:20.000;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:132.000;
-#BPMS:0.000=132.353,4.000=131.998;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:20;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:132;
+#BPMS:0=132.7,4=132;
+#STAGE:1;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Beginner:
      3:
-     0.137,0.161,0.021,0.032,0.000:
+     :
 0000
 0000
 0000
@@ -293,7 +284,7 @@
      :
      Easy:
      6:
-     0.292,0.402,0.328,0.180,0.000:
+     :
 0000
 0000
 0000
@@ -561,7 +552,7 @@
      :
      Medium:
      9:
-     0.418,0.483,0.211,0.360,0.116:
+     :
 0000
 0000
 0000
@@ -1053,7 +1044,7 @@
      :
      Hard:
      13:
-     0.565,0.618,0.296,0.338,0.296:
+     :
 0000
 0000
 0000
@@ -1649,7 +1640,7 @@
      :
      Easy:
      7:
-     0.266,0.295,0.042,0.307,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1917,7 +1908,7 @@
      :
      Medium:
      8:
-     0.411,0.483,0.941,0.095,0.021:
+     :
 00000000
 00000000
 00000000
@@ -2249,7 +2240,7 @@
      :
      Hard:
      13:
-     0.505,0.591,0.127,0.159,0.360:
+     :
 00000000
 00000000
 00000000

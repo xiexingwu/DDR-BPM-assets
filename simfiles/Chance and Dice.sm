@@ -1,23 +1,14 @@
 ﻿#TITLE:Chance and Dice;
-#SUBTITLE:;
 #ARTIST:日本少年;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:NIPPON SHOUNEN;
-#CREDIT:;
 #BANNER:Chance and Dice.png;
 #BACKGROUND:Chance and Dice-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/jubeat.png;
 #MUSIC:Chance and Dice.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:57.530;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:150.000;
-#BPMS:0.000=150.000,4.000=150.000;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:57.53;
+#SAMPLELENGTH:15;
+#BPMS:0=150;
+#STAGE:1;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Beginner:
      3:
-     0.141,0.205,0.020,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -343,7 +334,7 @@
      :
      Easy:
      5:
-     0.265,0.303,0.166,0.088,0.000:
+     :
 0000
 0000
 0000
@@ -671,7 +662,7 @@
      :
      Medium:
      7:
-     0.377,0.424,0.342,0.313,0.005:
+     :
 0000
 0000
 0000
@@ -1067,7 +1058,7 @@
      :
      Hard:
      9:
-     0.488,0.545,0.459,0.225,0.112:
+     :
 0000
 0000
 0000
@@ -1751,7 +1742,7 @@
      :
      Easy:
      4:
-     0.230,0.242,0.020,0.039,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2079,7 +2070,7 @@
      :
      Medium:
      7:
-     0.336,0.394,0.244,0.156,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2467,7 +2458,7 @@
      :
      Hard:
      10:
-     0.480,0.515,0.293,0.234,0.107:
+     :
 00000000
 00000000
 00000000

@@ -1,23 +1,14 @@
-﻿#TITLE:CANDY☆(X-Special);
-#SUBTITLE:;
+#TITLE:CANDY☆(X-Special);
 #ARTIST:Luv UNLIMITED;
 #TITLETRANSLIT:CANDY(X-Special);
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:CANDY(X-Special).png;
 #BACKGROUND:CANDY(X-Special)-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DDRMAX -Dance Dance Revolution 6thMIX-.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:CANDY(X-Special).ogg;
-#OFFSET:0.000;
-#SAMPLESTART:33.750;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:192.000;
-#BPMS:0.000=192.513,4.000=192.000;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:33.75;
+#SAMPLELENGTH:15;
+#BPMS:0=192;
+#STAGE:3;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Challenge:
      12:
-     0.711,0.700,0.711,0.522,0.000:
+     :
 0000
 0000
 0000
@@ -617,7 +608,7 @@
      :
      Challenge:
      13:
-     0.717,0.700,0.744,0.489,0.000:
+     :
 00000000
 00000000
 00000000

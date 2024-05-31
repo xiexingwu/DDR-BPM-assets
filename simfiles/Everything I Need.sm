@@ -1,24 +1,16 @@
-﻿#TITLE:Everything I Need;
-#SUBTITLE:;
+#TITLE:Everything I Need;
 #ARTIST:Brooke;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Everything I Need.png;
 #BACKGROUND:Everything I Need-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Everything I Need.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:50.390;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
+#SAMPLESTART:50.39;
+#SAMPLELENGTH:15;
 #DISPLAYBPM:50:100;
-#BPMS:0=100,4=100,164=96.774,165=94.737,166=90,167=50;
-#STOPS:;
-#BGCHANGES:;
+#BPMS:0=99.8,4=100,164=96.774,165=94.737,166=90,167=50;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -245,6 +237,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -476,6 +470,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -799,6 +795,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1258,6 +1256,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -1489,6 +1489,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -1796,6 +1798,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

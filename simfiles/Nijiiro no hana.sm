@@ -1,24 +1,16 @@
 ﻿#TITLE:虹色の花;
-#SUBTITLE:;
 #ARTIST:Akhuta y OJ;
 #TITLETRANSLIT:Nijiiro no hana;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Nijiiro no hana.png;
 #BACKGROUND:Nijiiro no hana-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Nijiiro no hana.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:62.824;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:171;
-#BPMS:0=170.616,4=169.996;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=170;
+#STAGE:1;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -415,6 +407,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -811,6 +805,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1379,6 +1375,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2067,6 +2065,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2463,6 +2463,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3043,6 +3045,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

@@ -1,24 +1,17 @@
 ﻿#TITLE:お米の美味しい炊き方、そしてお米を食べることによるその効果。;
-#SUBTITLE:;
 #ARTIST:大日本鉄倶楽部【あさき＆96】;
 #TITLETRANSLIT:Okome no oishii takikata, soshite okome wo taberu koto ni yoru sono kouka.;
-#SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:Dainippon Tetsu Kurabu (Asaki&96);
-#CREDIT:;
 #BANNER:Okome no oishii takikata, soshite okome wo taberu koto ni yoru sono kouka..png;
 #BACKGROUND:Okome no oishii takikata, soshite okome wo taberu koto ni yoru sono kouka.-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
-#MUSIC:Okome no oishii takikata, soshite okome wo taberu koto ni yoru sono kouka..ogg;
-#OFFSET:0.000;
-#SAMPLESTART:60.640;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:190;
-#BPMS:0=190.476,4=190.006;
-#STOPS:;
-#BGCHANGES:;
+#MUSIC:Okome no oishii takikata, soshite okome wo taberu koto ni yoru sono kouka.ogg;
+#SAMPLESTART:60.64;
+#SAMPLELENGTH:15;
+#BPMS:0=190;
+#STAGE:15;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -490,6 +483,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1054,6 +1049,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1844,6 +1841,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2930,6 +2929,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3494,6 +3495,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4284,6 +4287,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

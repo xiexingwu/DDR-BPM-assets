@@ -1,23 +1,14 @@
 #TITLE:PARANOiA Rebirth(X-Special);
-#SUBTITLE:;
 #ARTIST:190';
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:PARANOiA Rebirth(X-Special).png;
 #BACKGROUND:PARANOiA Rebirth(X-Special))-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/Dance Dance Revolution 3rdMIX.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:PARANOiA Rebirth(X-Special).ogg;
-#OFFSET:0.000;
 #SAMPLESTART:1.268;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:190.000;
-#BPMS:0.000=190.074,20.000=190.011;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:190;
+#BPMS:0=189.8,4=190;
+#STAGE:3;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Challenge:
      14:
-     0.718,0.767,0.228,0.218,0.000:
+     :
 0000
 0000
 0000
@@ -692,7 +683,7 @@
      :
      Challenge:
      14:
-     0.724,0.690,0.267,0.129,0.000:
+     :
 00000000
 00000000
 00000000

@@ -1,24 +1,15 @@
 #TITLE:On The Break;
-#SUBTITLE:;
 #ARTIST:Darwin;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:On The Break.png;
 #BACKGROUND:On The Break-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:On The Break.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:70.590;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:85.000:170.000;
-#BPMS:0.000=170.616,4.000=169.986,96.000=170.012,160.000=85.006,176.000=169.994;
-#STOPS:96.000=1.413
-;
-#BGCHANGES:;
+#SAMPLESTART:70.59;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:85:170;
+#BPMS:0=170,160=85,176=170;
+#STOPS:96=1.413;
+#STAGE:15;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -26,7 +17,7 @@
      :
      Beginner:
      3:
-     0.130,0.152,0.030,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -349,7 +340,7 @@
      :
      Easy:
      8:
-     0.399,0.532,0.319,0.349,0.000:
+     :
 0000
 0000
 0000
@@ -741,7 +732,7 @@
      :
      Medium:
      10:
-     0.527,0.532,0.439,0.319,0.120:
+     :
 0000
 0000
 0000
@@ -1401,7 +1392,7 @@
      :
      Hard:
      13:
-     0.627,0.782,0.489,0.209,0.314:
+     :
 0000
 0000
 0000
@@ -2165,7 +2156,7 @@
      :
      Easy:
      7:
-     0.332,0.376,0.050,0.100,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2577,7 +2568,7 @@
      :
      Medium:
      11:
-     0.429,0.438,0.060,0.100,0.125:
+     :
 00000000
 00000000
 00000000
@@ -3249,7 +3240,7 @@
      :
      Hard:
      14:
-     0.549,0.626,0.150,0.100,0.269:
+     :
 00000000
 00000000
 00000000

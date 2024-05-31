@@ -1,24 +1,15 @@
-﻿#TITLE:Sucka Luva;
-#SUBTITLE:;
+#TITLE:Sucka Luva;
 #ARTIST:Harmony Machine;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Sucka Luva.png;
 #BACKGROUND:Sucka Luva-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Sucka Luva.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:30.508;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:118;
-#BPMS:0=118.033,4=117.997;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=118;
+#STAGE:3;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -300,6 +291,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -581,6 +574,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1022,6 +1017,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1479,6 +1476,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -1760,6 +1759,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2201,6 +2202,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

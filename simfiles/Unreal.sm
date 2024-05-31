@@ -1,23 +1,12 @@
 #TITLE:Unreal;
-#SUBTITLE:;
 #ARTIST:Black Rose Garden;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Unreal.png;
 #BACKGROUND:Unreal-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/DanceDanceRevolution SuperNOVA2.png;
 #MUSIC:Unreal.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:28.820;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:90.000:180.000;
-#BPMS:0.000=180.000,4.000=180.000,184.000=90.000,200.000=180.000,264.500=180.000;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:27.97;
+#SAMPLELENGTH:15;
+#BPMS:0=177,4=180,184=90,200=180;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +14,7 @@
      :
      Beginner:
      4:
-     0.150,0.237,0.042,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -411,7 +400,7 @@
      :
      Easy:
      8:
-     0.464,0.515,1.000,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -874,7 +863,7 @@
      :
      Medium:
      12:
-     0.658,0.755,1.000,0.000,0.021:
+     :
 0000
 0000
 0000
@@ -1477,7 +1466,7 @@
      :
      Hard:
      15:
-     0.737,0.823,1.000,0.000,0.052:
+     :
 0000
 0000
 0000
@@ -2096,7 +2085,7 @@
      :
      Easy:
      8:
-     0.473,0.515,1.000,0.000,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2563,7 +2552,7 @@
      :
      Medium:
      12:
-     0.609,0.652,1.000,0.000,0.021:
+     :
 00000000
 00000000
 00000000
@@ -3166,7 +3155,7 @@
      :
      Hard:
      14:
-     0.702,0.823,0.792,0.000,0.052:
+     :
 00000000
 00000000
 00000000

@@ -1,24 +1,16 @@
-﻿#TITLE:You;
-#SUBTITLE:;
+#TITLE:You;
 #ARTIST:NM feat. Anjanette Mickelsen;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:You.png;
 #BACKGROUND:You-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:You.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:44.980;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
+#SAMPLESTART:44.98;
+#SAMPLELENGTH:15;
 #DISPLAYBPM:72;
-#BPMS:0=72,4=72;
-#STOPS:;
-#BGCHANGES:;
+#BPMS:0=71.7,4=72;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -195,6 +187,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -371,6 +365,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -647,6 +643,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1135,6 +1133,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -1311,6 +1311,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -1587,6 +1589,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

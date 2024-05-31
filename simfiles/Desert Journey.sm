@@ -1,24 +1,15 @@
-﻿#TITLE:Desert Journey;
-#SUBTITLE:;
+#TITLE:Desert Journey;
 #ARTIST:dj TAKA;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Desert Journey.png;
 #BACKGROUND:Desert Journey-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/DanceDanceRevolution HOTTEST PARTY 2.png;
 #MUSIC:Desert Journey.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:15.430;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:140;
-#BPMS:0=140.078,4=140.008;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:15.43;
+#SAMPLELENGTH:15;
+#BPMS:0=140;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -335,6 +326,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -651,6 +644,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1079,6 +1074,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1751,6 +1748,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2583,6 +2582,8 @@ MMMM
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2899,6 +2900,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3307,6 +3310,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3979,6 +3984,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

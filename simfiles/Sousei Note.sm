@@ -1,24 +1,16 @@
 ﻿#TITLE:創世ノート;
-#SUBTITLE:;
 #ARTIST:PON+wac;
 #TITLETRANSLIT:Sousei Note;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Sousei Note.png;
 #BACKGROUND:Sousei Note-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Sousei Note.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:76.701;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:200;
-#BPMS:0=200,4=200;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=200;
+#STAGE:16;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -520,6 +512,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1118,6 +1112,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1866,6 +1862,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2676,6 +2674,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3270,6 +3270,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3950,6 +3952,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

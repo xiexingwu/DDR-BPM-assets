@@ -1,23 +1,14 @@
-#TITLE:The flower in your smile;
-#SUBTITLE:;
+﻿#TITLE:The flower in your smile;
 #ARTIST:TACOS NAOMI feat.小久保裕之;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:TACOS NAOMI feat.Kokubo Hiroyuki;
-#CREDIT:;
 #BANNER:The flower in your smile.png;
 #BACKGROUND:The flower in your smile-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/CS DDR SuperNOVA2.png;
+#CDTITLE:./CDTitles/CS DDR SuperNOVA2.png;
 #MUSIC:The flower in your smile.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:43.997;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:186.000;
-#BPMS:0.000=186.528,4.000=186.002;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=186;
+#STAGE:16;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Beginner:
      3:
-     0.110,0.177,0.000,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -388,7 +379,7 @@
      :
      Easy:
      6:
-     0.293,0.341,0.000,0.041,0.000:
+     :
 0000
 0000
 0000
@@ -832,7 +823,7 @@
      :
      Medium:
      7:
-     0.396,0.417,0.205,0.123,0.000:
+     :
 0000
 0000
 0000
@@ -1308,7 +1299,7 @@
      :
      Hard:
      10:
-     0.499,0.530,0.410,0.082,0.000:
+     :
 0000
 0000
 0000
@@ -1876,7 +1867,7 @@
      :
      Easy:
      5:
-     0.284,0.303,0.041,0.041,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2264,7 +2255,7 @@
      :
      Medium:
      7:
-     0.386,0.530,0.287,0.072,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2716,7 +2707,7 @@
      :
      Hard:
      10:
-     0.468,0.606,0.543,0.051,0.000:
+     :
 00000000
 00000000
 00000000

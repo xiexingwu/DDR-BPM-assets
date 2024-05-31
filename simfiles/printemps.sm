@@ -1,24 +1,16 @@
-﻿#TITLE:printemps;
-#SUBTITLE:;
+#TITLE:printemps;
 #ARTIST:Qrispy Joybox;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:printemps.png;
 #BACKGROUND:printemps-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/REFLEC BEAT colette.png;
 #MUSIC:printemps.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:12.857;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:168;
-#BPMS:0=168.224,4=167.998,226=168.023;
-#STOPS:226=0.36;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=168;
+#STOPS:226=0.357;
+#STAGE:3;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -395,6 +387,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -799,6 +793,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1311,6 +1307,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2047,6 +2045,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2423,6 +2423,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2955,6 +2957,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

@@ -1,24 +1,17 @@
 ﻿#TITLE:GAIA;
-#SUBTITLE:;
 #ARTIST:猫叉L.E.D.Master+;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:Nekomata L.E.D.Master+;
-#CREDIT:;
 #BANNER:GAIA.png;
 #BACKGROUND:GAIA-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:GAIA.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:87.962;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:90:180;
-#BPMS:0=180,4=180,142=90,143=180,149=180,149.5=180,156=90,157=180;
+#SAMPLELENGTH:15;
+#BPMS:0=180,142=90,143=180,156=90,157=180;
 #STOPS:149=0.167,149.5=0.167;
-#BGCHANGES:;
+#STAGE:15;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -480,6 +473,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1217,6 +1212,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2011,6 +2008,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -3156,6 +3155,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3853,6 +3854,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4635,6 +4638,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

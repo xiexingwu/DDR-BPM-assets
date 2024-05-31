@@ -1,23 +1,13 @@
 #TITLE:HYPER EUROBEAT;
-#SUBTITLE:;
 #ARTIST:NAOKI feat. DDR ALL STARS;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:HYPER EUROBEAT.png;
 #BACKGROUND:HYPER EUROBEAT-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DANCE DANCE REVOLUTION EXTREME.PNG;
+#CDTITLE:./CDTitles/DDR EXTREME.png;
 #MUSIC:HYPER EUROBEAT.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:38.655;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:152.000;
-#BPMS:0.000=152.542,4.000=152.002;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=152;
+#BGSTAGE:2;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +15,7 @@
      :
      Beginner:
      3:
-     0.159,0.183,0.161,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -343,7 +333,7 @@
      :
      Easy:
      4:
-     0.280,0.305,0.080,0.131,0.000:
+     :
 0000
 0000
 0000
@@ -648,11 +638,6 @@
 1001
 0001
 0001
-,
-0000
-0000
-0000
-0000
 ;
 
 //---------------dance-single - ----------------
@@ -661,7 +646,7 @@
      :
      Medium:
      6:
-     0.363,0.398,0.141,0.161,0.000:
+     :
 0000
 0000
 0000
@@ -1031,7 +1016,7 @@
      :
      Hard:
      10:
-     0.514,0.520,0.442,0.211,0.106:
+     :
 0000
 0000
 0000
@@ -1697,7 +1682,7 @@
      :
      Easy:
      6:
-     0.309,0.427,0.211,0.121,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2015,7 +2000,7 @@
      :
      Medium:
      9:
-     0.393,0.398,0.131,0.221,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2400,8 +2385,8 @@
      dance-double:
      :
      Hard:
-     10:
-     0.475,0.459,0.362,0.181,0.085:
+     11:
+     :
 00000000
 00000000
 00000000

@@ -1,24 +1,17 @@
 ﻿#TITLE:nightbird lost wing;
-#SUBTITLE:;
 #ARTIST:猫叉Master+;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:Nekomata Master+;
-#CREDIT:;
 #BANNER:nightbird lost wing.png;
 #BACKGROUND:nightbird lost wing-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:nightbird lost wing.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:44.210;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:190;
-#BPMS:0=190.476,4=189.655,15=190.476,19=190.476,23=190.476,27=189.999,187=189.999;
-#STOPS:15=1.26,19=1.267,23=1.267,27=1.267,187=1.26;
-#BGCHANGES:;
+#SAMPLESTART:44.21;
+#SAMPLELENGTH:15;
+#BPMS:0=190;
+#STOPS:15=1.263,19=1.263,23=1.263,27=1.263,187=1.263;
+#STAGE:3;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -425,6 +418,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -871,6 +866,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1513,6 +1510,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2467,6 +2466,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2913,6 +2914,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3535,6 +3538,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

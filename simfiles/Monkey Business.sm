@@ -1,24 +1,16 @@
-﻿#TITLE:Monkey Business;
-#SUBTITLE:;
+#TITLE:Monkey Business;
 #ARTIST:kors k;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Monkey Business.png;
 #BACKGROUND:Monkey Business-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/DanceDanceRevolution 2013.png;
 #MUSIC:Monkey Business.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:79.500;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:80:160;
-#BPMS:0=160,4=160,32=160,40=159.836,46.5=80.357,47.5=159.898,54.5=159.977,70=159.836,76.5=80.357,77.5=159.898,84.5=159.991,124=160.714,124.5=80,156.5=159.953,171.5=80.357,172=160,248=80,250=160.055;
-#STOPS:32=1.127,40=0.187,54.5=0.187,70=0.187,84.5=0.187,124=0.187;
-#BGCHANGES:;
+#SAMPLESTART:79.5;
+#SAMPLELENGTH:15;
+#BPMS:0=160.3,4=160,46.5=80,47.5=160,76.5=80,77.5=160,124.5=80,156.5=160,171.5=80,172=160,248=80,250=160;
+#STOPS:32=1.125,40=0.188,54.5=0.188,70=0.188,84.5=0.188,124=0.188;
+#STAGE:14;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -437,6 +429,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1007,6 +1001,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1977,6 +1973,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2783,6 +2781,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -3937,6 +3937,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4511,6 +4513,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -5497,6 +5501,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -6283,6 +6289,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

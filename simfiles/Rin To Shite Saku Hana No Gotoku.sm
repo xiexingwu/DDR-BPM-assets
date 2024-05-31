@@ -1,23 +1,14 @@
 ﻿#TITLE:凛として咲く花の如く;
-#SUBTITLE:;
 #ARTIST:紅色リトマス;
 #TITLETRANSLIT:Rin To Shite Saku Hana No Gotoku;
-#SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:Koushoku Ritomasu;
-#CREDIT:;
 #BANNER:Rin To Shite Saku Hana No Gotoku.png;
 #BACKGROUND:Rin To Shite Saku Hana No Gotoku-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/pnm 15 ADVENTURE.png;
 #MUSIC:Rin To Shite Saku Hana No Gotoku.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:40.480;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:163.000;
-#BPMS:0.000=163.636,4.000=163.011;
-#STOPS:;
-#BGCHANGES:0.000=Rin To Shite Saku Hana No Gotoku.avi=1.000=0=0=0;
+#SAMPLESTART:40.48;
+#SAMPLELENGTH:15;
+#BPMS:0=163;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Beginner:
      3:
-     0.166,0.235,0.018,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -418,7 +409,7 @@
      :
      Easy:
      6:
-     0.273,0.335,0.080,0.143,0.000:
+     :
 0000
 0000
 0000
@@ -811,7 +802,7 @@
      :
      Medium:
      8:
-     0.387,0.603,0.304,0.241,0.000:
+     :
 0000
 0000
 0000
@@ -1264,7 +1255,7 @@
      :
      Hard:
      10:
-     0.530,0.570,0.483,0.214,0.009:
+     :
 0000
 0000
 0000
@@ -1861,7 +1852,7 @@
      :
      Easy:
      5:
-     0.254,0.302,0.089,0.125,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2254,7 +2245,7 @@
      :
      Medium:
      7:
-     0.361,0.436,0.277,0.179,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2715,7 +2706,7 @@
      :
      Hard:
      11:
-     0.535,0.570,0.340,0.197,0.009:
+     :
 00000000
 00000000
 00000000

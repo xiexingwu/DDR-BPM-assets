@@ -1,24 +1,15 @@
-﻿#TITLE:Back In Your Arms;
-#SUBTITLE:;
+#TITLE:Back In Your Arms;
 #ARTIST:jun feat. DJ Silver vs Milo ft. Becca Hossany;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Back In Your Arms.png;
 #BACKGROUND:Back In Your Arms-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Back In Your Arms.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:70.227;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:132;
-#BPMS:0=132.353,4=131.995;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=132;
+#STAGE:17;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -305,6 +296,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -596,6 +589,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1063,6 +1058,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1714,6 +1711,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2005,6 +2004,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2472,6 +2473,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

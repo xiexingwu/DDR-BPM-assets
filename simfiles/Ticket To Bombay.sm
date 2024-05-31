@@ -1,23 +1,14 @@
 #TITLE:Ticket to Bombay;
-#SUBTITLE:;
 #ARTIST:Jena Rose;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Ticket To Bombay.png;
 #BACKGROUND:Ticket To Bombay-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Ticket To Bombay.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:54.625;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:145.000;
-#BPMS:0.000=145.161,4.000=145.003;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:145;
+#BPMS:0=144.6,4=145;
+#STAGE:2;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Beginner:
      3:
-     0.130,0.144,0.010,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -328,7 +319,7 @@
      :
      Easy:
      5:
-     0.233,0.259,0.010,0.010,0.000:
+     :
 0000
 0000
 0000
@@ -631,7 +622,7 @@
      :
      Medium:
      7:
-     0.347,0.404,0.162,0.071,0.000:
+     :
 0000
 0000
 0000
@@ -1078,7 +1069,7 @@
      :
      Hard:
      10:
-     0.484,0.548,0.425,0.081,0.035:
+     :
 0000
 0000
 0000
@@ -1617,7 +1608,7 @@
      :
      Easy:
      5:
-     0.222,0.259,0.010,0.000,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1920,7 +1911,7 @@
      :
      Medium:
      7:
-     0.322,0.375,0.202,0.051,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2335,7 +2326,7 @@
      :
      Hard:
      9:
-     0.419,0.490,0.202,0.010,0.000:
+     :
 00000000
 00000000
 00000000

@@ -1,24 +1,15 @@
-﻿#TITLE:Find The Way;
-#SUBTITLE:;
+#TITLE:Find The Way;
 #ARTIST:nc ft. SAK.;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Find The Way.png;
 #BACKGROUND:Find The Way-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:Find The Way.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:66.550;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:165;
-#BPMS:0=165.138,4=165.003;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:66.55;
+#SAMPLELENGTH:15;
+#BPMS:0=165;
+#STAGE:16;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -390,6 +381,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -761,6 +754,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1364,6 +1359,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2083,6 +2080,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2454,6 +2453,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3057,6 +3058,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

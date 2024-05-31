@@ -1,22 +1,13 @@
 #TITLE:on the bounce;
-#SUBTITLE:;
 #ARTIST:neuras;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:on the bounce.png;
 #BACKGROUND:on the bounce-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:on the bounce.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:70.410;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#BPMS:0.000=150.000;
-#STOPS:;
-#BGCHANGES:0.000=on the bounce.avi=1.000=0=0=0;
+#SAMPLESTART:70.41;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:150;
+#BPMS:0=149.5,4=150;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -24,7 +15,7 @@
      :
      Beginner:
      3:
-     0.142,0.207,0.020,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -337,7 +328,7 @@
      :
      Easy:
      7:
-     0.311,0.326,0.070,0.130,0.000:
+     :
 0000
 0000
 0000
@@ -750,7 +741,7 @@
      :
      Medium:
      11:
-     0.547,0.534,0.551,0.170,0.080:
+     :
 0000
 0000
 0000
@@ -1335,7 +1326,7 @@
      :
      Hard:
      14:
-     0.718,0.653,0.651,0.140,0.356:
+     :
 0000
 0000
 0000
@@ -2200,7 +2191,7 @@
      :
      Challenge:
      16:
-     0.814,0.772,0.661,0.210,0.616:
+     :
 0000
 0000
 0000
@@ -3089,7 +3080,7 @@
      :
      Easy:
      6:
-     0.276,0.297,0.080,0.110,0.000:
+     :
 00000000
 00000000
 00000000
@@ -3426,7 +3417,7 @@
      :
      Medium:
      9:
-     0.418,0.415,0.130,0.100,0.080:
+     :
 00000000
 00000000
 00000000
@@ -4011,7 +4002,7 @@
      :
      Hard:
      14:
-     0.675,0.653,0.541,0.140,0.326:
+     :
 00000000
 00000000
 00000000
@@ -4876,7 +4867,7 @@
      :
      Challenge:
      15:
-     0.754,0.712,0.371,0.210,0.586:
+     :
 00000000
 00000000
 00000000

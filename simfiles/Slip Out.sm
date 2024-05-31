@@ -1,22 +1,13 @@
 #TITLE:Slip Out;
-#SUBTITLE:;
 #ARTIST:Harmony Machine;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Slip Out.png;
 #BACKGROUND:Slip Out-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Slip Out.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:53.054;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#BPMS:0.000=95.238,4.000=95.000;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=95;
+#STAGE:2;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -24,7 +15,7 @@
      :
      Beginner:
      1:
-     0.089,0.116,0.011,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -222,7 +213,7 @@
      :
      Easy:
      3:
-     0.136,0.174,0.054,0.064,0.000:
+     :
 0000
 0000
 0000
@@ -460,7 +451,7 @@
      :
      Medium:
      7:
-     0.292,0.309,0.300,0.171,0.000:
+     :
 0000
 0000
 0000
@@ -774,7 +765,7 @@
      :
      Hard:
      9:
-     0.375,0.387,0.407,0.150,0.070:
+     :
 0000
 0000
 0000
@@ -1132,7 +1123,7 @@
      :
      Easy:
      5:
-     0.182,0.193,0.161,0.043,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1346,7 +1337,7 @@
      :
      Medium:
      6:
-     0.260,0.309,0.171,0.225,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1644,7 +1635,7 @@
      :
      Hard:
      9:
-     0.355,0.387,0.321,0.139,0.107:
+     :
 00000000
 00000000
 00000000

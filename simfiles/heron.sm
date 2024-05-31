@@ -1,24 +1,15 @@
-﻿#TITLE:heron;
-#SUBTITLE:;
+#TITLE:heron;
 #ARTIST:S-C-U;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:heron.png;
 #BACKGROUND:heron-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:heron.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:55.380;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:182;
-#BPMS:0=182.741,4=181.983;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:55.38;
+#SAMPLELENGTH:15;
+#BPMS:0=182;
+#STAGE:15;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -359,6 +350,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -707,6 +700,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1143,6 +1138,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1775,6 +1772,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2435,6 +2434,8 @@ MMMM
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2783,6 +2784,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3239,6 +3242,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3875,6 +3880,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

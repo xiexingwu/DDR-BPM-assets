@@ -1,24 +1,16 @@
-﻿#TITLE:Diamond Night;
-#SUBTITLE:;
+#TITLE:Diamond Night;
 #ARTIST:TOMOSUKE feat. Alexa Slaymaker;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Diamond Night.png;
 #BACKGROUND:Diamond Night-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/DanceDanceRevolution II.png;
 #MUSIC:Diamond Night.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:37.222;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
+#SAMPLELENGTH:15;
 #DISPLAYBPM:135;
-#BPMS:0=135.338,4=134.995;
-#STOPS:;
-#BGCHANGES:;
+#BPMS:0=134.5,4=135;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -295,6 +287,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -576,6 +570,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -973,6 +969,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1738,6 +1736,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2622,6 +2622,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2903,6 +2905,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3292,6 +3296,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3921,6 +3927,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

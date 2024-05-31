@@ -1,24 +1,16 @@
 ﻿#TITLE:sola;
-#SUBTITLE:;
 #ARTIST:小野秀幸;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:Hideyuki Ono;
-#CREDIT:;
 #BANNER:sola.png;
 #BACKGROUND:sola-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/DanceDanceRevolution 2013.png;
 #MUSIC:sola.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:33.778;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:135;
-#BPMS:0=135.338,4=134.997;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=135;
+#STAGE:16;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -334,6 +326,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -649,6 +643,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1292,6 +1288,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2195,6 +2193,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2510,6 +2510,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3141,6 +3143,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

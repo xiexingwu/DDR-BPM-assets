@@ -1,23 +1,14 @@
 #TITLE:Lift You Up;
-#SUBTITLE:;
 #ARTIST:wolli;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Lift You Up.png;
 #BACKGROUND:Lift You Up-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Lift You Up.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:42.910;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:123.000;
-#BPMS:0.000=123.288,4.000=122.995;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:42.91;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:123;
+#BPMS:0=122.8,4=123;
+#STAGE:2;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Beginner:
      3:
-     0.111,0.148,0.000,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -273,7 +264,7 @@
      :
      Easy:
      4:
-     0.196,0.222,0.053,0.032,0.000:
+     :
 0000
 0000
 0000
@@ -521,7 +512,7 @@
      :
      Medium:
      6:
-     0.288,0.296,0.170,0.053,0.000:
+     :
 0000
 0000
 0000
@@ -841,7 +832,7 @@
      :
      Hard:
      10:
-     0.367,0.420,0.106,0.032,0.260:
+     :
 0000
 0000
 0000
@@ -1385,7 +1376,7 @@
      :
      Easy:
      5:
-     0.193,0.222,0.042,0.053,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1633,7 +1624,7 @@
      :
      Medium:
      6:
-     0.285,0.296,0.106,0.053,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1969,7 +1960,7 @@
      :
      Hard:
      8:
-     0.340,0.370,0.074,0.032,0.048:
+     :
 00000000
 00000000
 00000000

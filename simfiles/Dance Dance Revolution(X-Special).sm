@@ -1,23 +1,12 @@
 #TITLE:Dance Dance Revolution(X-Special);
-#SUBTITLE:;
 #ARTIST:DDR ALL STARS;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Dance Dance Revolution(X-Special).png;
 #BACKGROUND:Dance Dance Revolution(X-Special)-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/Dance Dance Revolution EXTREME.PNG;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Dance Dance Revolution(X-Special).ogg;
-#OFFSET:0.000;
-#SAMPLESTART:28.800;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:150.000;
-#BPMS:0.000=150.000,4.000=150.000;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:28.8;
+#SAMPLELENGTH:15;
+#BPMS:0=150;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +14,7 @@
      :
      Challenge:
      13:
-     0.631,0.633,0.430,0.369,0.287:
+     :
 0000
 0000
 0000
@@ -745,7 +734,7 @@
      :
      Challenge:
      13:
-     0.629,0.633,0.430,0.359,0.287:
+     :
 00000000
 00000000
 00000000

@@ -1,23 +1,14 @@
 #TITLE:Take A Chance;
-#SUBTITLE:;
 #ARTIST:neuras feat. GATZ;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Take A Chance.png;
 #BACKGROUND:Take A Chance-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Take A Chance.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:65.463;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:88.000;
-#BPMS:0.000=88.020,4.000=88.003;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:88;
+#BPMS:0=87.85,4=88;
+#STAGE:2;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Beginner:
      2:
-     0.090,0.099,0.000,0.009,0.000:
+     :
 0000
 0000
 0000
@@ -223,7 +214,7 @@
      :
      Easy:
      3:
-     0.144,0.165,0.046,0.073,0.000:
+     :
 0000
 0000
 0000
@@ -421,7 +412,7 @@
      :
      Medium:
      6:
-     0.230,0.280,0.146,0.037,0.000:
+     :
 0000
 0000
 0000
@@ -719,7 +710,7 @@
      :
      Hard:
      9:
-     0.297,0.329,0.229,0.055,0.059:
+     :
 0000
 0000
 0000
@@ -1085,7 +1076,7 @@
      :
      Easy:
      3:
-     0.135,0.132,0.027,0.046,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1283,7 +1274,7 @@
      :
      Medium:
      6:
-     0.225,0.247,0.119,0.046,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1589,7 +1580,7 @@
      :
      Hard:
      9:
-     0.306,0.297,0.128,0.055,0.096:
+     :
 00000000
 00000000
 00000000

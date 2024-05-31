@@ -1,5 +1,4 @@
-﻿//----- song id: meum
-#TITLE:めうめうぺったんたん！！;
+﻿#TITLE:めうめうぺったんたん！！;
 #ARTIST:日向美ビタースイーツ♪;
 #TITLETRANSLIT:Meumeupettantan!!;
 #ARTISTTRANSLIT:Hinatabi Bittersweets♪;
@@ -10,8 +9,9 @@
 #SAMPLESTART:72.64;
 #SAMPLELENGTH:15;
 #DISPLAYBPM:185;
-#BPMS:0=184.251,4=185;
+#BPMS:0=184.3,4=185;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -478,6 +478,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -949,6 +951,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1596,6 +1600,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2423,6 +2429,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -3590,6 +3598,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4061,6 +4071,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4708,6 +4720,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -5535,6 +5549,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

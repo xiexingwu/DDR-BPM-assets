@@ -1,24 +1,16 @@
 ﻿#TITLE:RЁVOLUTIΦN;
-#SUBTITLE:;
 #ARTIST:TËЯRA;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
+#TITLETRANSLIT:REVOLUTION;
 #BANNER:REVOLUTION.png;
 #BACKGROUND:REVOLUTION-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/GuitarFreaks & DrumMania V4.png;
 #MUSIC:REVOLUTION.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:30.877;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:202;
-#BPMS:0=202.247,4=201.992,200=201.995;
-#STOPS:200=0.293;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=202;
+#STOPS:200=0.297;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -535,6 +527,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1051,6 +1045,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1707,6 +1703,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2631,6 +2629,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -3855,6 +3855,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4371,6 +4373,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -5031,6 +5035,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -5947,6 +5953,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

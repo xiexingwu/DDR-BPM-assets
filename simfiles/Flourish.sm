@@ -1,24 +1,14 @@
 #TITLE:Flourish;
-#SUBTITLE:;
 #ARTIST:sonic-coll. feat. frances maya;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Flourish.png;
 #BACKGROUND:Flourish-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Flourish.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:74.600;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:153.000;
-#BPMS:0.000=152.542,4.000=151.982,188.000=152.015;
-#STOPS:188.000=0.393
-;
-#BGCHANGES:0.000=Flourish.avi=1.000=1=0=0;
+#SAMPLESTART:74.6;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:152;
+#BPMS:0=151.5,4=152;
+#STOPS:188=0.395;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -26,7 +16,7 @@
      :
      Beginner:
      3:
-     0.118,0.172,0.009,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -374,7 +364,7 @@
      :
      Easy:
      5:
-     0.224,0.287,0.052,0.009,0.000:
+     :
 0000
 0000
 0000
@@ -722,7 +712,7 @@
      :
      Medium:
      8:
-     0.373,0.430,0.319,0.103,0.013:
+     :
 0000
 0000
 0000
@@ -1174,7 +1164,7 @@
      :
      Hard:
      10:
-     0.480,0.545,0.517,0.147,0.047:
+     :
 0000
 0000
 0000
@@ -1758,7 +1748,7 @@
      :
      Easy:
      6:
-     0.249,0.287,0.112,0.017,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2106,7 +2096,7 @@
      :
      Medium:
      8:
-     0.335,0.344,0.224,0.095,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2518,7 +2508,7 @@
      :
      Hard:
      10:
-     0.437,0.459,0.448,0.095,0.026:
+     :
 00000000
 00000000
 00000000

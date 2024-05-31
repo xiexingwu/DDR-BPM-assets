@@ -1,23 +1,13 @@
 #TITLE:VANITY ANGEL;
-#SUBTITLE:;
-#ARTIST:FIX X;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
+#ARTIST:FIXX;
 #BANNER:VANITY ANGEL.png;
 #BACKGROUND:VANITY ANGEL-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/DANCE DANCE REVOLUTION EXTREME.PNG;
 #MUSIC:VANITY ANGEL.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:36.034;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:140.000;
-#BPMS:0.000=140.078,4.000=139.999;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:140;
+#BPMS:0=137.5,4=140;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +15,7 @@
      :
      Beginner:
      3:
-     0.123,0.138,0.042,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -308,7 +298,7 @@
      :
      Easy:
      4:
-     0.216,0.248,0.010,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -578,11 +568,6 @@
 0000
 0000
 0000
-,
-0000
-0000
-0000
-0000
 ;
 
 //---------------dance-single - ----------------
@@ -591,7 +576,7 @@
      :
      Medium:
      9:
-     0.353,0.359,0.010,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -1050,7 +1035,7 @@
      :
      Hard:
      12:
-     0.512,0.508,0.010,0.187,0.614:
+     :
 0000
 0000
 0000
@@ -1818,7 +1803,7 @@
      :
      Easy:
      5:
-     0.201,0.248,0.010,0.000,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2101,7 +2086,7 @@
      :
      Medium:
      9:
-     0.332,0.359,0.010,0.000,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2544,7 +2529,7 @@
      :
      Hard:
      12:
-     0.424,0.442,0.010,0.000,0.495:
+     :
 00000000
 00000000
 00000000

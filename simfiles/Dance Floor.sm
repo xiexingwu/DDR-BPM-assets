@@ -1,23 +1,14 @@
 #TITLE:Dance Floor;
-#SUBTITLE:;
 #ARTIST:neuras feat. Yurai;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Dance Floor.png;
 #BACKGROUND:Dance Floor-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Dance Floor.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:37.750;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:120.000;
-#BPMS:0.000=120.000,4.000=120.000;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:37.75;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:120;
+#BPMS:0=119.5,4=120;
+#STAGE:2;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Beginner:
      2:
-     0.095,0.114,0.020,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -273,7 +264,7 @@
      :
      Easy:
      5:
-     0.196,0.205,0.128,0.020,0.000:
+     :
 0000
 0000
 0000
@@ -521,7 +512,7 @@
      :
      Medium:
      6:
-     0.297,0.297,0.088,0.187,0.000:
+     :
 0000
 0000
 0000
@@ -853,7 +844,7 @@
      :
      Hard:
      9:
-     0.387,0.388,0.196,0.295,0.020:
+     :
 0000
 0000
 0000
@@ -1257,7 +1248,7 @@
      :
      Easy:
      5:
-     0.175,0.205,0.108,0.020,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1505,7 +1496,7 @@
      :
      Medium:
      7:
-     0.296,0.320,0.088,0.137,0.005:
+     :
 00000000
 00000000
 00000000
@@ -1845,7 +1836,7 @@
      :
      Hard:
      10:
-     0.390,0.388,0.206,0.255,0.093:
+     :
 00000000
 00000000
 00000000

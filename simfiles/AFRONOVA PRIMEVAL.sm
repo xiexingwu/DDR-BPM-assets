@@ -1,23 +1,15 @@
+//----- song ID: pafr -----//
 #TITLE:AFRONOVA PRIMEVAL;
-#SUBTITLE:;
 #ARTIST:8 bit;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:AFRONOVA PRIMEVAL.png;
 #BACKGROUND:AFRONOVA PRIMEVAL-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/DANCEMANIAX.PNG;
 #MUSIC:AFRONOVA PRIMEVAL.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:49.203;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:200.000;
-#BPMS:0.000=200.000,4.000=199.987;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:200;
+#BPMS:0=200,4=199.987;
+#BGCHANGES:3.75=AFRONOVA PRIMEVAL.avi=1=1=0=0;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +17,7 @@
      :
      Beginner:
      4:
-     0.239,0.320,0.127,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -448,7 +440,7 @@
      :
      Easy:
      7:
-     0.420,0.479,0.274,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -857,11 +849,6 @@
 1000
 0000
 1001
-0000
-,
-0000
-0000
-0000
 0000
 ;
 
@@ -871,7 +858,7 @@
      :
      Medium:
      9:
-     0.527,0.599,0.529,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -1434,7 +1421,7 @@
      :
      Hard:
      12:
-     0.665,0.639,0.510,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -2133,7 +2120,7 @@
      :
      Easy:
      7:
-     0.436,0.559,0.235,0.000,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2556,7 +2543,7 @@
      :
      Medium:
      9:
-     0.520,0.559,0.382,0.000,0.000:
+     :
 00000000
 00000000
 00000000
@@ -3103,7 +3090,7 @@
      :
      Hard:
      13:
-     0.662,0.679,0.353,0.000,0.000:
+     :
 00000000
 00000000
 00000000

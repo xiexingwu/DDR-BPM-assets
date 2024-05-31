@@ -9,6 +9,7 @@
 #SAMPLELENGTH:15;
 #BPMS:0=165;
 #STOPS:72=1.091;
+#STAGE:16;
 
 //---------------dance-single - ----------------
 #NOTES:

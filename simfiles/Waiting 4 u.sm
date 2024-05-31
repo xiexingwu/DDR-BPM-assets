@@ -1,23 +1,13 @@
 #TITLE:Waiting 4 u;
-#SUBTITLE:;
 #ARTIST:DDT;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Waiting 4 u.png;
 #BACKGROUND:Waiting 4 u-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Waiting 4 u.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:46.630;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:175.000;
-#BPMS:0.000=175.610,4.000=174.997;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:46.63;
+#SAMPLELENGTH:15;
+#BPMS:0=175;
+#STAGE:15;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +15,7 @@
      :
      Beginner:
      4:
-     0.180,0.307,0.093,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -373,7 +363,7 @@
      :
      Easy:
      6:
-     0.327,0.427,0.155,0.104,0.000:
+     :
 0000
 0000
 0000
@@ -731,7 +721,7 @@
      :
      Medium:
      8:
-     0.454,0.569,0.197,0.166,0.000:
+     :
 0000
 0000
 0000
@@ -1265,7 +1255,7 @@
      :
      Hard:
      11:
-     0.578,0.569,0.435,0.207,0.057:
+     :
 0000
 0000
 0000
@@ -1867,7 +1857,7 @@
      :
      Challenge:
      11:
-     0.529,0.534,0.414,0.186,0.057:
+     :
 0000
 0000
 0000
@@ -2469,7 +2459,7 @@ MMMM
      :
      Easy:
      6:
-     0.348,0.427,0.166,0.104,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2827,7 +2817,7 @@ MMMM
      :
      Medium:
      8:
-     0.461,0.463,0.259,0.104,0.000:
+     :
 00000000
 00000000
 00000000
@@ -3337,7 +3327,7 @@ MMMM
      :
      Hard:
      12:
-     0.620,0.605,0.652,0.104,0.114:
+     :
 00000000
 00000000
 00000000
@@ -3991,7 +3981,7 @@ MMMM
      :
      Challenge:
      12:
-     0.552,0.605,0.518,0.083,0.088:
+     :
 00000000
 00000000
 00000000

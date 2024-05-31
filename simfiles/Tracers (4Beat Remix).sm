@@ -1,23 +1,13 @@
 #TITLE:Tracers (4Beat Remix);
-#SUBTITLE:;
 #ARTIST:Ruffage & Size;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Tracers (4Beat Remix).png;
 #BACKGROUND:Tracers (4Beat Remix)-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Tracers (4Beat Remix).ogg;
-#OFFSET:0.000;
 #SAMPLESTART:44.571;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:140.000;
-#BPMS:0.000=140.078,4.000=139.997;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=140;
+#STAGE:3;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +15,7 @@
      :
      Beginner:
      3:
-     0.122,0.164,0.000,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -333,7 +323,7 @@
      :
      Easy:
      5:
-     0.260,0.281,0.047,0.085,0.000:
+     :
 0000
 0000
 0000
@@ -646,7 +636,7 @@
      :
      Medium:
      7:
-     0.336,0.337,0.094,0.085,0.000:
+     :
 0000
 0000
 0000
@@ -1107,7 +1097,7 @@
      :
      Hard:
      10:
-     0.440,0.478,0.179,0.075,0.024:
+     :
 0000
 0000
 0000
@@ -1624,7 +1614,7 @@
      :
      Easy:
      6:
-     0.276,0.309,0.085,0.075,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1945,7 +1935,7 @@
      :
      Medium:
      9:
-     0.359,0.337,0.141,0.066,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2402,7 +2392,7 @@
      :
      Hard:
      11:
-     0.465,0.478,0.141,0.066,0.019:
+     :
 00000000
 00000000
 00000000

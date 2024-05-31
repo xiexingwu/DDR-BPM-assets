@@ -1,24 +1,15 @@
-﻿#TITLE:Chinese Snowy Dance;
-#SUBTITLE:;
+#TITLE:Chinese Snowy Dance;
 #ARTIST:Mutsuhiko Izumi;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Chinese Snowy Dance.png;
 #BACKGROUND:Chinese Snowy Dance-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTitles/GuitarFreaks & DrumMania XG2.png;
 #MUSIC:Chinese Snowy Dance.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:4.114;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:175;
-#BPMS:0=175.61,4=174.992;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=175;
+#STAGE:16;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -395,6 +386,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -831,6 +824,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1591,6 +1586,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2659,6 +2656,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3035,6 +3034,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3659,6 +3660,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

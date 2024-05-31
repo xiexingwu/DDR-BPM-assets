@@ -1,23 +1,13 @@
 #TITLE:Inspiration;
-#SUBTITLE:;
 #ARTIST:DKC Crew;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Inspiration.png;
 #BACKGROUND:Inspiration-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/DanceDanceRevolution X.png;
+#CDTITLE:./CDTitles/DDR X.png;
 #MUSIC:Inspiration.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:14.690;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:147.000;
-#BPMS:0.000=147.541,4.000=146.989;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:14.69;
+#SAMPLELENGTH:15;
+#BPMS:0=147;
+#STAGE:3;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +15,7 @@
      :
      Beginner:
      3:
-     0.116,0.166,0.019,0.000,0.000:
+     :
 0000
 0000
 0000
@@ -328,7 +318,7 @@
      :
      Easy:
      5:
-     0.213,0.221,0.087,0.058,0.000:
+     :
 0000
 0000
 0000
@@ -631,7 +621,7 @@
      :
      Medium:
      7:
-     0.317,0.304,0.281,0.116,0.000:
+     :
 0000
 0000
 0000
@@ -978,7 +968,7 @@
      :
      Hard:
      8:
-     0.438,0.442,0.436,0.155,0.000:
+     :
 0000
 0000
 0000
@@ -1401,7 +1391,7 @@
      :
      Easy:
      4:
-     0.201,0.221,0.068,0.058,0.000:
+     :
 00000000
 00000000
 00000000
@@ -1704,7 +1694,7 @@
      :
      Medium:
      6:
-     0.301,0.332,0.184,0.145,0.000:
+     :
 00000000
 00000000
 00000000
@@ -2047,7 +2037,7 @@
      :
      Hard:
      9:
-     0.415,0.470,0.262,0.116,0.000:
+     :
 00000000
 00000000
 00000000

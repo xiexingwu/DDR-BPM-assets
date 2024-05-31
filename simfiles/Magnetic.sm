@@ -1,24 +1,15 @@
-﻿#TITLE:Magnetic;
-#SUBTITLE:;
+#TITLE:Magnetic;
 #ARTIST:Sota Fujimori;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Magnetic.png;
 #BACKGROUND:Magnetic-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/jubeat saucer.png;
 #MUSIC:Magnetic.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:77.997;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:40:160;
-#BPMS:0=160,4=160,168=80,184=40,186=160,250=80,252=160;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLELENGTH:15;
+#BPMS:0=160,168=80,184=40,186=160,250=80,252=160;
+#STAGE:15;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -385,6 +376,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -896,6 +889,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1670,6 +1665,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2888,6 +2885,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -4394,6 +4393,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4909,6 +4910,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -5691,6 +5694,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -6881,6 +6886,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

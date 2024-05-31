@@ -1,23 +1,14 @@
 #TITLE:TRIP MACHINE(X-Special);
-#SUBTITLE:;
 #ARTIST:DE-SIRE;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:TRIP MACHINE(X-Special).png;
 #BACKGROUND:TRIP MACHINE(X-Special)-bg.png;
-#LYRICSPATH:;
-#CDTITLE:./CDTITLES/Dance Dance Revolution.PNG;
+#CDTITLE:./CDTitles/Dance Dance Revolution.png;
 #MUSIC:TRIP MACHINE(X-Special).ogg;
-#OFFSET:0.000;
-#SAMPLESTART:13.500;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
-#DISPLAYBPM:160.000;
-#BPMS:0.000=160.142,20.000=160.089;
-#STOPS:;
-#BGCHANGES:;
+#SAMPLESTART:13.5;
+#SAMPLELENGTH:15;
+#DISPLAYBPM:160;
+#BPMS:0=159.2,4=160.11;
+#STAGE:3;
 
 //---------------dance-single - ----------------
 #NOTES:
@@ -25,7 +16,7 @@
      :
      Challenge:
      11:
-     0.539,0.560,0.531,0.328,0.006:
+     :
 0000
 0000
 0000
@@ -577,7 +568,7 @@
      :
      Challenge:
      12:
-     0.541,0.593,0.633,0.260,0.006:
+     :
 00000000
 00000000
 00000000

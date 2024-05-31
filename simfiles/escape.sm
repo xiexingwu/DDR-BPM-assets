@@ -1,24 +1,16 @@
-﻿#TITLE:escape;
-#SUBTITLE:;
+#TITLE:escape;
 #ARTIST:U1 & Krystal B;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:escape.png;
 #BACKGROUND:escape-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/DanceDanceRevolution HOTTEST PARTY 2.png;
 #MUSIC:escape.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:51.390;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
+#SAMPLESTART:51.39;
+#SAMPLELENGTH:15;
 #DISPLAYBPM:140;
-#BPMS:0=140.078,4=140;
-#STOPS:;
-#BGCHANGES:;
+#BPMS:0=140.7,4=140;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -305,6 +297,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -591,6 +585,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -993,6 +989,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1463,6 +1461,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2085,6 +2085,8 @@ MMMM
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2371,6 +2373,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2773,6 +2777,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3243,6 +3249,8 @@ MMMM
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

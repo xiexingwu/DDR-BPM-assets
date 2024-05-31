@@ -1,24 +1,15 @@
-﻿#TITLE:The Island Song;
-#SUBTITLE:;
+#TITLE:The Island Song;
 #ARTIST:TAG feat. Eric Anthony;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:The Island Song.png;
 #BACKGROUND:The Island Song-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/DanceDanceRevolution 2010.png;
 #MUSIC:The Island Song.ogg;
-#OFFSET:0.000;
-#SAMPLESTART:47.960;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
+#SAMPLESTART:47.96;
+#SAMPLELENGTH:15;
 #DISPLAYBPM:85;
-#BPMS:0=85.106,4=84.997;
-#STOPS:;
-#BGCHANGES:;
+#BPMS:0=84.65,4=85;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -190,6 +181,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -361,6 +354,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -716,6 +711,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1383,6 +1380,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2210,6 +2209,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2381,6 +2382,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -2732,6 +2735,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3399,6 +3404,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :

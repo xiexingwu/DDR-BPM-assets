@@ -1,24 +1,16 @@
-﻿#TITLE:Confession;
-#SUBTITLE:;
+#TITLE:Confession;
 #ARTIST:trance star;
-#TITLETRANSLIT:;
-#SUBTITLETRANSLIT:;
-#ARTISTTRANSLIT:;
-#CREDIT:;
 #BANNER:Confession.png;
 #BACKGROUND:Confession-bg.png;
-#LYRICSPATH:;
 #CDTITLE:./CDTITLES/Dance Dance Revolution HOTTEST PARTY.png;
 #MUSIC:Confession.ogg;
-#OFFSET:0.000;
 #SAMPLESTART:35.205;
-#SAMPLELENGTH:15.000;
-#SELECTABLE:YES;
+#SAMPLELENGTH:15;
 #DISPLAYBPM:150;
-#BPMS:0=150,8=150;
-#STOPS:;
-#BGCHANGES:;
+#BPMS:0=149.5,4=150;
+#STAGE:2;
 
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -365,6 +357,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -711,6 +705,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1133,6 +1129,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -1819,6 +1817,8 @@
 0000
 0000
 ;
+
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
@@ -2793,6 +2793,8 @@
 0000
 0000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3147,6 +3149,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -3565,6 +3569,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
@@ -4251,6 +4257,8 @@
 00000000
 00000000
 ;
+
+//---------------dance-double - ----------------
 #NOTES:
      dance-double:
      :
